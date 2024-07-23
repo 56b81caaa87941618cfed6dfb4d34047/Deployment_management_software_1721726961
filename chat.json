@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'Good morning' text to be the primary heading (H1) or a different heading level?\", \"option1\": \"Yes, make it the primary heading (H1).\", \"option2\": \"No, assign it to a different heading level (please specify H2-H6).\"}, {\"question 2\": \"Should the 'Good morning' text be styled with any specific font or color preferences to match the app's design theme?\", \"option1\": \"Yes, match it with the app's current design theme.\", \"option2\": \"No, use default styling.\"}], \"input_token_count\": 261, \"output_token_count\": 136, \"time_taken\": \"0:00:08.914746\"}",
+        "message_id": "guest23072024093122",
+        "timestamp": "23072024093133",
+        "component_file_name": "simple_hero_component_1721726962",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable greeting based on the time of day (e.g., Good morning, Good afternoon, Good evening)\", \"checked\": true}, {\"feature\": \"Option to personalize greeting based on user name (e.g., Good morning, Alex)\", \"checked\": false}, {\"feature\": \"Multi-language support for greetings\", \"checked\": false}, {\"feature\": \"Dynamic background that changes with the time of day\", \"checked\": false}, {\"feature\": \"Incorporate local weather information next to the greeting\", \"checked\": true}, {\"feature\": \"Add inspirational quotes or daily tips below the greeting\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 143, \"time_taken\": \"0:00:06.525503\"}",
         "message_id": "guest23072024093122",
