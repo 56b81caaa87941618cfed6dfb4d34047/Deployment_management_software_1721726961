@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a form with two text field and one button",
+        "message_id": "guest23072024093358",
+        "timestamp": "23072024093400",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify which components you are referring to that need clearing? Do you mean removing its data/content or deleting the component itself?\", \"option1\": \"I mean removing the data/content within the component.\", \"option2\": \"I mean deleting the component itself from the interface.\"}, {\"question 2\": \"Should this clearing functionality be user-triggered (e.g., through a button press) or automatic under certain conditions?\", \"option1\": \"It should be user-triggered.\", \"option2\": \"It should be automatic under specific conditions.\"}], \"input_token_count\": 257, \"output_token_count\": 124, \"time_taken\": \"0:00:04.092627\"}",
         "message_id": "guest23072024093327",
