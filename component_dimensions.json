@@ -42,7 +42,7 @@
         "id": "simple_cta_component_1721726962",
         "type": "containerComponent",
         "metadata": {},
-        "w": 12,
+        "w": 6,
         "h": 8,
         "x": 0,
         "y": 3,
@@ -58,7 +58,7 @@
     },
     "search_input_1721727151.js": {
         "id": "search_input_1721727151",
-        "name": "search_input",
+        "name": "search-input",
         "type": "containerComponent",
         "metadata": {},
         "w": 6,
