@@ -18,5 +18,11 @@
         "content": "On it, changing the heading text to \"Good morning\".",
         "timestamp": "23072024093124",
         "message_id": "guest23072024093122"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable greeting based on the time of day (e.g., Good morning, Good afternoon, Good evening)\", \"checked\": true}, {\"feature\": \"Option to personalize greeting based on user name (e.g., Good morning, Alex)\", \"checked\": false}, {\"feature\": \"Multi-language support for greetings\", \"checked\": false}, {\"feature\": \"Dynamic background that changes with the time of day\", \"checked\": false}, {\"feature\": \"Incorporate local weather information next to the greeting\", \"checked\": true}, {\"feature\": \"Add inspirational quotes or daily tips below the greeting\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 143, \"time_taken\": \"0:00:06.525503\"}",
+        "timestamp": "23072024093131",
+        "message_id": "guest23072024093122"
     }
 ]
