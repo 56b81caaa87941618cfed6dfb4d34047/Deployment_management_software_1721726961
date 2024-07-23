@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dropdown menu for selecting user roles (Admin, Developer, Manager)\", \"checked\": true}, {\"feature\": \"Checkbox option for opting into newsletters and updates\", \"checked\": false}, {\"feature\": \"Toggle switch for enabling dark/light mode\", \"checked\": true}, {\"feature\": \"Input field for entering user age with validation\", \"checked\": false}, {\"feature\": \"Customizable user profile avatars\", \"checked\": true}, {\"feature\": \"Dynamic form field for entering multiple email IDs for notification\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 112, \"time_taken\": \"0:00:03.578667\"}",
+        "message_id": "guest23072024093441",
+        "timestamp": "23072024093447",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the gender selection radio buttons to be horizontally or vertically aligned?\", \"option1\": \"Horizontally aligned\", \"option2\": \"Vertically aligned\"}, {\"question 2\": \"Do you want an 'Other' option included alongside 'Male' and 'Female'?\", \"option1\": \"Yes, include an 'Other' option\", \"option2\": \"No, just 'Male' and 'Female'\"}], \"input_token_count\": 261, \"output_token_count\": 101, \"time_taken\": \"0:00:03.207207\"}",
         "message_id": "guest23072024093441",
