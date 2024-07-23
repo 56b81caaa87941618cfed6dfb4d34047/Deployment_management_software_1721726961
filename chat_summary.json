@@ -12,5 +12,11 @@
         "content": "change the heading text to Good morning",
         "timestamp": "23072024093124",
         "message_id": "guest23072024093122"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "On it, changing the heading text to \"Good morning\".",
+        "timestamp": "23072024093124",
+        "message_id": "guest23072024093122"
     }
 ]
