@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'Good morning' text to be the primary heading (H1) or a different heading level?\", \"option1\": \"Yes, make it the primary heading (H1).\", \"option2\": \"No, assign it to a different heading level (please specify H2-H6).\"}, {\"question 2\": \"Should the 'Good morning' text be styled with any specific font or color preferences to match the app's design theme?\", \"option1\": \"Yes, match it with the app's current design theme.\", \"option2\": \"No, use default styling.\"}], \"input_token_count\": 261, \"output_token_count\": 136, \"time_taken\": \"0:00:08.914746\"}",
         "timestamp": "23072024093133",
         "message_id": "guest23072024093122"
+    },
+    {
+        "role": "user",
+        "content": "Clear the component",
+        "timestamp": "23072024093328",
+        "message_id": "guest23072024093327"
     }
 ]
