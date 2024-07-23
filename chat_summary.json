@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Live error detection and suggestions\", \"checked\": true}, {\"feature\": \"Auto code formatting and correction suggestions\", \"checked\": false}, {\"feature\": \"Version control system integration for easy rollbacks\", \"checked\": false}, {\"feature\": \"Customizable themes for personalized development environment\", \"checked\": true}, {\"feature\": \"Syntax highlighting for easier code review and debugging\", \"checked\": true}, {\"feature\": \"Built-in documentation and help section for quick assistance\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 104, \"time_taken\": \"0:00:03.594416\"}",
         "timestamp": "23072024093332",
         "message_id": "guest23072024093327"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify which components you are referring to that need clearing? Do you mean removing its data/content or deleting the component itself?\", \"option1\": \"I mean removing the data/content within the component.\", \"option2\": \"I mean deleting the component itself from the interface.\"}, {\"question 2\": \"Should this clearing functionality be user-triggered (e.g., through a button press) or automatic under certain conditions?\", \"option1\": \"It should be user-triggered.\", \"option2\": \"It should be automatic under specific conditions.\"}], \"input_token_count\": 257, \"output_token_count\": 124, \"time_taken\": \"0:00:04.092627\"}",
+        "timestamp": "23072024093333",
+        "message_id": "guest23072024093327"
     }
 ]
