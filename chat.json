@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What will be the purpose of the form, and where should it be positioned within the app interface?\", \"option1\": \"To collect user feedback, should be placed at the bottom of the home screen.\", \"option2\": \"To sign up for a newsletter, should be positioned on a dedicated 'Contact Us' page.\"}, {\"question 2\": \"Do you have specific placeholder text or labels in mind for the two text fields?\", \"option1\": \"Yes, 'Your Name' for the first field and 'Your Email' for the second field.\", \"option2\": \"No specific placeholders, open to suggestions.\"}], \"input_token_count\": 264, \"output_token_count\": 139, \"time_taken\": \"0:00:04.776553\"}",
+        "message_id": "guest23072024093358",
+        "timestamp": "23072024093405",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic form validation for real-time feedback\", \"checked\": true}, {\"feature\": \"Auto-save functionality for form data\", \"checked\": false}, {\"feature\": \"Responsive design for mobile and desktop views\", \"checked\": true}, {\"feature\": \"Dark mode toggle for user preference\", \"checked\": false}, {\"feature\": \"Multi-language support for global accessibility\", \"checked\": false}, {\"feature\": \"Customizable themes and colors for brand alignment\", \"checked\": true}], \"input_token_count\": 218, \"output_token_count\": 101, \"time_taken\": \"0:00:03.774913\"}",
         "message_id": "guest23072024093358",
