@@ -36,5 +36,11 @@
         "content": "Clear the component",
         "timestamp": "23072024093328",
         "message_id": "guest23072024093327"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, working on clearing the component.",
+        "timestamp": "23072024093329",
+        "message_id": "guest23072024093327"
     }
 ]
