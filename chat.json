@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Understood, working on clearing the component.",
+        "message_id": "guest23072024093327",
+        "timestamp": "23072024093329",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Clear the component",
         "message_id": "guest23072024093327",
