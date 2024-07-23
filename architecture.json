@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "Clear the component"
+    },
+    {
+        "level": 1,
+        "task_description": "add a form with two text field and one button"
     }
 ]
