@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721726962",
+        "role": "chat_acknowledge",
+        "content": "Great idea! I'll add a form with two text fields and a button right away.",
+        "message_id": "guest23072024093358",
+        "timestamp": "23072024093400",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "change the heading text to Good morning",
-        "timestamp": "23072024093124",
-        "message_id": "guest23072024093122"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "On it, changing the heading text to \"Good morning\".",
-        "timestamp": "23072024093124",
-        "message_id": "guest23072024093122"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable greeting based on the time of day (e.g., Good morning, Good afternoon, Good evening)\", \"checked\": true}, {\"feature\": \"Option to personalize greeting based on user name (e.g., Good morning, Alex)\", \"checked\": false}, {\"feature\": \"Multi-language support for greetings\", \"checked\": false}, {\"feature\": \"Dynamic background that changes with the time of day\", \"checked\": false}, {\"feature\": \"Incorporate local weather information next to the greeting\", \"checked\": true}, {\"feature\": \"Add inspirational quotes or daily tips below the greeting\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 143, \"time_taken\": \"0:00:06.525503\"}",
-        "timestamp": "23072024093131",
-        "message_id": "guest23072024093122"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'Good morning' text to be the primary heading (H1) or a different heading level?\", \"option1\": \"Yes, make it the primary heading (H1).\", \"option2\": \"No, assign it to a different heading level (please specify H2-H6).\"}, {\"question 2\": \"Should the 'Good morning' text be styled with any specific font or color preferences to match the app's design theme?\", \"option1\": \"Yes, match it with the app's current design theme.\", \"option2\": \"No, use default styling.\"}], \"input_token_count\": 261, \"output_token_count\": 136, \"time_taken\": \"0:00:08.914746\"}",
-        "timestamp": "23072024093133",
-        "message_id": "guest23072024093122"
-    },
-    {
-        "role": "user",
-        "content": "Clear the component",
-        "timestamp": "23072024093328",
-        "message_id": "guest23072024093327"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Understood, working on clearing the component.",
-        "timestamp": "23072024093329",
-        "message_id": "guest23072024093327"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Live error detection and suggestions\", \"checked\": true}, {\"feature\": \"Auto code formatting and correction suggestions\", \"checked\": false}, {\"feature\": \"Version control system integration for easy rollbacks\", \"checked\": false}, {\"feature\": \"Customizable themes for personalized development environment\", \"checked\": true}, {\"feature\": \"Syntax highlighting for easier code review and debugging\", \"checked\": true}, {\"feature\": \"Built-in documentation and help section for quick assistance\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 104, \"time_taken\": \"0:00:03.594416\"}",
-        "timestamp": "23072024093332",
-        "message_id": "guest23072024093327"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify which components you are referring to that need clearing? Do you mean removing its data/content or deleting the component itself?\", \"option1\": \"I mean removing the data/content within the component.\", \"option2\": \"I mean deleting the component itself from the interface.\"}, {\"question 2\": \"Should this clearing functionality be user-triggered (e.g., through a button press) or automatic under certain conditions?\", \"option1\": \"It should be user-triggered.\", \"option2\": \"It should be automatic under specific conditions.\"}], \"input_token_count\": 257, \"output_token_count\": 124, \"time_taken\": \"0:00:04.092627\"}",
-        "timestamp": "23072024093333",
-        "message_id": "guest23072024093327"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a form with two text field and one button",
+        "message_id": "guest23072024093358",
+        "timestamp": "23072024093400",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify which components you are referring to that need clearing? Do you mean removing its data/content or deleting the component itself?\", \"option1\": \"I mean removing the data/content within the component.\", \"option2\": \"I mean deleting the component itself from the interface.\"}, {\"question 2\": \"Should this clearing functionality be user-triggered (e.g., through a button press) or automatic under certain conditions?\", \"option1\": \"It should be user-triggered.\", \"option2\": \"It should be automatic under specific conditions.\"}], \"input_token_count\": 257, \"output_token_count\": 124, \"time_taken\": \"0:00:04.092627\"}",
+        "message_id": "guest23072024093327",
+        "timestamp": "23072024093333",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Live error detection and suggestions\", \"checked\": true}, {\"feature\": \"Auto code formatting and correction suggestions\", \"checked\": false}, {\"feature\": \"Version control system integration for easy rollbacks\", \"checked\": false}, {\"feature\": \"Customizable themes for personalized development environment\", \"checked\": true}, {\"feature\": \"Syntax highlighting for easier code review and debugging\", \"checked\": true}, {\"feature\": \"Built-in documentation and help section for quick assistance\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 104, \"time_taken\": \"0:00:03.594416\"}",
+        "message_id": "guest23072024093327",
+        "timestamp": "23072024093332",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, working on clearing the component.",
+        "message_id": "guest23072024093327",
+        "timestamp": "23072024093329",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Clear the component",
+        "message_id": "guest23072024093327",
+        "timestamp": "23072024093328",
+        "component_file_name": "search_input_1721727151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'Good morning' text to be the primary heading (H1) or a different heading level?\", \"option1\": \"Yes, make it the primary heading (H1).\", \"option2\": \"No, assign it to a different heading level (please specify H2-H6).\"}, {\"question 2\": \"Should the 'Good morning' text be styled with any specific font or color preferences to match the app's design theme?\", \"option1\": \"Yes, match it with the app's current design theme.\", \"option2\": \"No, use default styling.\"}], \"input_token_count\": 261, \"output_token_count\": 136, \"time_taken\": \"0:00:08.914746\"}",
+        "message_id": "guest23072024093122",
+        "timestamp": "23072024093133",
+        "component_file_name": "simple_hero_component_1721726962",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable greeting based on the time of day (e.g., Good morning, Good afternoon, Good evening)\", \"checked\": true}, {\"feature\": \"Option to personalize greeting based on user name (e.g., Good morning, Alex)\", \"checked\": false}, {\"feature\": \"Multi-language support for greetings\", \"checked\": false}, {\"feature\": \"Dynamic background that changes with the time of day\", \"checked\": false}, {\"feature\": \"Incorporate local weather information next to the greeting\", \"checked\": true}, {\"feature\": \"Add inspirational quotes or daily tips below the greeting\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 143, \"time_taken\": \"0:00:06.525503\"}",
+        "message_id": "guest23072024093122",
+        "timestamp": "23072024093131",
+        "component_file_name": "simple_hero_component_1721726962",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "On it, changing the heading text to \"Good morning\".",
+        "message_id": "guest23072024093122",
+        "timestamp": "23072024093124",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the heading text to Good morning",
+        "message_id": "guest23072024093122",
+        "timestamp": "23072024093124",
+        "component_file_name": "simple_hero_component_1721726962",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "23072024093400",
         "message_id": "guest23072024093358"
     }
